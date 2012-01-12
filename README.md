@@ -20,7 +20,37 @@ So yeah, slave labor is cheaper than robot labor according to King Google the Go
 
 ## Actual stuff
 
-Easy: pull a list JSON formattted from some web service of Google+ user IDs
-Iterate through each one and prefix it with "g:" (it's the king's pet seal)
-Stick it in a JSON template
-POST it with lots of cookies
+Easy: 
+
+1. pull a list JSON formattted from some web service of Google+ user IDs
+
+2. Iterate through each one and prefix it with "g:" (it's the king's pet seal)
+
+3. Stick it in a JSON template
+
+4. POST it with lots of cookies
+
+### That was all a lie
+
+So it turns out all of that was a lie. Not that I knew better, but it was all a lie. It's such a lie that it could have been mistaken for a tasty delicious cake.
+
+### Now for the good part
+
+This is the tale of Captain Jack Sparrow- a pirate so brave on the seven seas. A mystical quest to the isle of tortuga, raven locks sway on the ocean's breeze.
+
+### I mean real part
+
+Re(e^ix) = cos(x)
+
+### I can't think of any other obscure references
+
+And honestly I need to do my math homework.
+
+### Argleflarg
+
+Just scroll down until I actually think of what to title the stuff with actual stuff
+
+### Circle Limits
+
+There's something on the order of I took a break and I'll never finish this.
+
